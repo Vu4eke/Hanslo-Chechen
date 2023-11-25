@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="-" alt="Logo discord.bot.Chechen" width="726">
+      <img src="-" alt="Logo discord.bot.Chechen.ERROR.TO.INDICATION" width="726">
 </p>
 
 <p align="center">
