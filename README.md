@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="-" alt="Logo discord.bot.Chechen.ERROR.TO.INDICATION" width="726">
+      <img src="https://i.ibb.co/48HSDPT/rounded-in-photoretrica-1.png" alt="Logo discord.bot.Chechen.ERROR.TO.INDICATION" width="726">
 </p>
 
 <p align="center">
