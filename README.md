@@ -12,14 +12,10 @@
 
 Был придуман как отдельный бот от остальных, которые бы заменил: AutoMod, Advanced music, RuleMod, GameStatus, advanced net-code. Которые сейчас в разработке и иногда выходят обновление по усмотрению разработчика. Тут вы найдёте исходный код бота.
 
-## Установка и запуск бота
-
-* Когда-нибудь добавлю инфу, но я не знаю как её оформить :D
-
 ## Ссылки проекта
 
 - * [Support-Server](https://discord.gg/STGbGYPvaW)
-  * [Documentation](https://egor-mostreniv.gitbook.io/startup/)
+  * [Documentation](https://hanslo.gitbook.io/hanslo-chechen-docs/)
 
 ## Лизенция
 
