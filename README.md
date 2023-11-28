@@ -18,7 +18,8 @@
 
 ## Ссылки проекта
 
-- [Support-Server](https://discord.gg/STGbGYPvaW)
+- * [Support-Server](https://discord.gg/STGbGYPvaW)
+  * [Documentation](https://egor-mostreniv.gitbook.io/startup/)
 
 ## Лизенция
 
