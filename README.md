@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-MIT-blue?label=License&labelColor=107%2C%20255%2C%20112&color=107%2C%20255%2C%20112" alt="License">
 </p>
 
-# ㅤㅤㅤㅤㅤㅤㅤДанный ресурс заморожен автором.
+# ㅤㅤㅤㅤㅤДанный ресурс заморожен автором.
 
 ## О боте
 
